@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Primer proyecto</string>
+    <string name="text1">Nuestro programa para saludar</string>
+    <string name="edi1">Escribe Tu Nombre!!</string>
+    <string name="boton">Saludar</string>
+    <string name="text2"></string>
+
+
+</resources>

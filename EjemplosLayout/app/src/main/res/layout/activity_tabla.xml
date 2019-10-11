@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TableRow>
+        <AnalogClock
+            android:id="@+id/reloj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <CheckBox
+            android:id="@+id/checkPrueba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ChekBox de prueba" />
+    </TableRow>
+    <TableRow>
+        <Button
+            android:id="@+id/botonPrueba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Boton Prueba" />
+        <TextView
+            android:id="@+id/etiquetaPrueba"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Etiqueta de prueba." />
+    </TableRow>
+</TableLayout>

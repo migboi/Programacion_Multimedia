@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">prueba de saludo</string>
+    <string name="txt1">Introduce tu grupo</string>
+    <string name="ed1">Introduce tu grupo</string>
+    <string name="boton">Pulsa aquí </string>
+
+    <string name="tv2">te saluda el grupo:</string>
+    <string name="boton2"> Volver ala actidiad anterior</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hola2</string>
+    <string name="boton">Siguente</string>
+    <string name="tv1">Prueba saludo</string>
+    <string name="edit1">Introduce el grupo</string>
+
+    <string name="title_activity_segundo">SegundoActivity</string>
+    <string name="tv2">nombre</string>
+
+
+</resources>

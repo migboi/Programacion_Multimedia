@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjemplosLayout</string>
+
+    <string name="LayoutLineal">Layout Lineal</string>
+    <string name="Layout_en_Tabla">Layout en Tabla</string>
+    <string name="Layout_Relativo">Layout Relativo</string>
+    <string name="Layout_en_Grid">Layout en Grid</string>
+
+
+</resources>
