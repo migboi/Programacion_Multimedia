@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Image1</string>
-
-    <string name="gridlayout">Gridl Layout</string>
-    <string name="lineallayout">Lineal Layout</string>
-    <string name="relativelayout">Relative Layout</string>
-    <string name="tablelayout">Table Layout</string>
-
-</resources>

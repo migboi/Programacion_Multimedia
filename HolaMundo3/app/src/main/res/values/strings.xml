@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HolaMundo3</string>
+
+    <string name="tv1">Grupos de dam</string>
+    <string name="boton1">Siguiente</string>
+
+    <string name="ed1">Introduce el nombre</string>
+    <string name="boton2">Siguiente</string>
+
+    <string name="ed3">Tu nombre es</string>
+    <string name="boton3">Anterior</string>
+
+</resources>
