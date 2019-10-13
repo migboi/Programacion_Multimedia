@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ejerRadioButonColores</string>
+
+    <string name="radioAzul">Blue</string>
+    <string name="radioRed">Red</string>
+    <string name="redioVerde">Verde</string>
+    <string name="Textview">colores</string>
+</resources>
