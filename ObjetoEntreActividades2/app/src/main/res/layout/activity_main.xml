@@ -1,0 +1,61 @@
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:stretchColumns="2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TableRow android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+    <TextView
+        android:id="@+id/campoNombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NOMBRE:"
+        />
+    <EditText
+        android:id="@+id/edNombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</TableRow>
+<TableRow android:layout_width="match_parent"
+android:layout_height="wrap_content" >
+<TextView
+    android:id="@+id/campoApellido"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="APELLIDO:"
+    />
+<EditText
+    android:id="@+id/edApellido"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"/>
+</TableRow>
+<TableRow android:layout_width="match_parent"
+android:layout_height="wrap_content" >
+<TextView
+    android:id="@+id/campoEdad"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="EDAD:"
+    />
+<EditText
+    android:id="@+id/edEdad"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"/>
+</TableRow>
+<TableRow android:layout_width="wrap_content"
+android:layout_height="wrap_content" >
+<ImageView
+    android:id="@+id/miFoto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"/>
+</TableRow>
+<TableRow android:layout_width="match_parent"
+android:layout_height="wrap_content" >
+<Button
+    android:id="@+id/Btn"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="PULSA BOTON:"/>
+</TableRow>
+</TableLayout>

@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:stretchColumns="2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/todaPersona"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NOMBRE:"  />
+    <TextView
+        android:id="@+id/campoNom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NOMBRE:"  />
+    <TextView
+        android:id="@+id/campoApe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="APELLIDO:" />
+    <TextView
+        android:id="@+id/campoEd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EDAD:" />
+    <ImageView
+        android:id="@+id/campoFoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+
