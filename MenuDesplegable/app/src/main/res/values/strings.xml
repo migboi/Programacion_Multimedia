@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MenuDesplegable</string>
+
+    <string name="Item1">Opcion 1</string>
+    <string name="Item2">Opcion 2</string>
+    <string name="Item3">Opcion 3</string>
+
+</resources>
