@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OperacionesBasica</string>
+
+    <string name="numnero1">Inserte el primer número</string>
+    <string name="NUmero2">Inserte el segundo número</string>
+    <string name="tvResultado">Resultado</string>
+
+</resources>
