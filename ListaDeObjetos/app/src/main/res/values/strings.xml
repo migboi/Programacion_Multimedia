@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListaDeObjetos</string>
+
+    <string name="tv1">Seleciona una persona</string>
+
+
+    <string name="txN">Nombre</string>
+    <string name="txA">Apellido</string>
+    <string name="txE">Edad</string>
+    <string name="txP">Pais</string>
+</resources>
