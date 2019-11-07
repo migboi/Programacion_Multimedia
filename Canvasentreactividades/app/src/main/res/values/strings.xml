@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CanvasEnTreActividades</string>
+
+    <string name="edNombre">Introduce el nombre</string>
+    <string name="BotonSig">Siguente</string>
+
+
+    <string name="I1"> opcion 1</string>
+    <string name="I2">opcion 2</string>
+    <string name="IE">opcion 3</string>
+</resources>
