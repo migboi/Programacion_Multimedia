@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EjercicioRecopilatorio</string>
+    <string name="Item1">Opcion 1</string>
+    <string name="Item2">Opcion 2</string>
+    <string name="Item3">Opcion 3</string>
+
+
+    <string name="radio1">Tarifa Normal</string>
+    <string name="radio2">Tarifa Urgente</string>
+
+
+    <string name="checkRegalo">Caja regalo</string>
+    <string name="checkTargeta">Con tarjeta dedicada</string>
+
+    <string name="txt_peso">Introduce el pseo del paquete </string>
+
+    <string name="botonCalcular">Hacer Calculos</string>
+
+    <string name="ZonaObjeto">Objeto zona</string>
+    <string name="TarifaObjeto">Objeto Tarifa</string>
+    <string name="TIPOObjeto">Objeto TIPO</string>
+    <string name="PESOObjeto">Objeto PESO</string>
+    <string name="PRECIOObjeto">Objeto Precio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
