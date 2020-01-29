@@ -1,0 +1,18 @@
+
+<resources>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Lista de Tareas</string>
+    <string name="lstNoElements">No hay nada pendiente</string>
+    <string name="pending">Tarea pendiente...</string>
+    <string name="newItem">Nuevo elemento</string>
+    <string name="deleteItem">Eliminar elemento</string>
+    <string name="editItem">Editar elemento</string><string name="alrtDelete">Eliminar elemento</string>
+    <string name="alrtDeleteEntry">Se va a eliminar un elemento. ¿Está seguro?</string>
+    <string name="element">Tarea</string><string name="place">Lugar</string>
+    <string name="importance">Importancia</string>
+    <string name="description">Descripción</string><string name="save">Salvar</string>
+    <string name="identificator">Identificador</string>
+    <string name="dataError">Error al obtener los datos</string>
+</resources>
+
